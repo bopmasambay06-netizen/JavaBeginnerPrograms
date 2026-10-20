@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FirstProjects.iml" filepath="$PROJECT_DIR$/FirstProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/../RockPaperScissors/OOP_ProjectExercises.iml" filepath="$PROJECT_DIR$/../RockPaperScissors/OOP_ProjectExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RockPaperScissors/RockPaperScissors/RockPaperScissors.iml" filepath="$PROJECT_DIR$/../RockPaperScissors/RockPaperScissors/RockPaperScissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RockPaperScissorss/RockPaperScissorss.iml" filepath="$PROJECT_DIR$/RockPaperScissorss/RockPaperScissorss.iml" />
     </modules>
   </component>
 </project>
