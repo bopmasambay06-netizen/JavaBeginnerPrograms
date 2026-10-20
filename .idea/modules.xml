@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FirstProjects.iml" filepath="$PROJECT_DIR$/FirstProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RockPaperScissors/OOP_ProjectExercises.iml" filepath="$PROJECT_DIR$/../RockPaperScissors/OOP_ProjectExercises.iml" />
     </modules>
   </component>
 </project>
