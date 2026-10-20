@@ -4,7 +4,7 @@ public class SlotMachine {
 
     static double balance = 100;
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
@@ -78,5 +78,7 @@ public class SlotMachine {
             }
 
         } while (playAgain);
+
+        scanner.close();
     }
 }
